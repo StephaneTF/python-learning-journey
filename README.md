@@ -4,7 +4,7 @@ Started: March 2, 2026
 
 This repository contains my Python exercises and daily practice.
 
-Courses Covered:
+Topics Covered:
 - Python: Hello World
 - Basic Variables and Data Types
 - Strings and Output Formatting
