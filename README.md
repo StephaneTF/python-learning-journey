@@ -2,6 +2,8 @@
 
 Started: March 2, 2026
 
+### Basics (March 2, 2026)
+
 This repository contains my Python exercises and daily practice.
 
 Topics Covered:
